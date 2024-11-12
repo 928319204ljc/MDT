@@ -1,13 +1,13 @@
 # Gait-Based Emotion Recognition
 
 ## Overview
-This project is focused on recognizing emotions through gait analysis using advanced deep learning techniques. The goal is to explore how human emotions can be inferred from gait patterns, leveraging video-based data and a multi-anchor adaptive fusion model to classify various emotional states.
+This project is focused on recognizing emotions through gait analysis using advanced deep learning techniques. The goal is to explore how human emotions can be inferred from gait patterns, leveraging video-based data and MDT-GCN to classify various emotional states.
 
 The implemented approach includes preprocessing of gait data, feature extraction, and emotion classification using a neural network model. This project can be beneficial for applications in security, healthcare, and user experience enhancement.
 
 ## Features
 - Emotion recognition based on gait patterns.
-- Multi-anchor adaptive fusion with bi-focus attention mechanism.
+- Multi-anchor adaptive fusion and bi-focus attention mechanism.
 - Supports training, validation, and evaluation of deep learning models.
 - GUI for visualization of results.
 
